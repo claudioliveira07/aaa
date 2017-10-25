@@ -33,7 +33,7 @@ import android.widget.Spinner;
         }else{
             intent = new Intent(this, ExibirLivros.class);
         }
-
+        //test
         intent.putExtra(EXTRA_MESSAGE_NAME, name_string);
         startActivity(intent);
     }
