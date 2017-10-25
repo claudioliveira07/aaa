@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simulado</string>
+    <string name="selecione_assunto">Selecione o Assunto</string>
+    <string name="informe_nome">Informe o seu Nome</string>
+    <string name="exibir">Exibir</string>
+
+    <string-array name="country_arrays">
+        <item>Técnico</item>
+        <item>Literatura</item>
+    </string-array>
+
+    <string-array name="livrosTecnicos">
+        <item>Concrete Mathematics</item>
+        <item>The C++ Programming Language</item>
+    </string-array>
+
+    <string-array name="livrosLiteratura">
+        <item>MindSet</item>
+        <item>O Homem mais Rico da Babilônia</item>
+    </string-array>
+
+</resources>
